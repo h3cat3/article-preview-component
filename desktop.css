@@ -1,0 +1,27 @@
+@media screen and (min-width: 1024px) {
+    main {
+        width: 45.625rem;
+        height: 17.5rem;
+        flex-direction: row;
+        margin: 15% auto;
+    }
+    .decor {
+        height: 100%;
+        aspect-ratio: 1/2;
+        object-fit:cover;
+        border-radius: 1rem 0 0 1rem;
+    }
+ 
+   .modal-content {
+    display: none;
+    position: absolute;
+    border-radius: 1rem;
+    padding: 1rem;
+    line-height: 0;
+    font-size: 1rem;
+    top: 52%;
+    left: 62%;
+   }
+   .modal-content p {font-size: 0.8rem;}
+   .exit {display: none;}
+}
