@@ -1,7 +1,7 @@
 @media screen and (min-width: 1024px) {
     main {
-        width: 45.625rem;
-        height: 17.5rem;
+        width: 45.625em;
+        height: 17.5em;
         flex-direction: row;
         margin: 15% auto;
     }
@@ -13,15 +13,16 @@
     }
  
    .modal-content {
-    display: none;
-    position: absolute;
-    border-radius: 1rem;
-    padding: 1rem;
-    line-height: 0;
-    font-size: 1rem;
-    top: 60%;
-    left: 62%;
+        display: none;
+        position: absolute;
+        border-radius: 1rem;
+        padding: 1rem;
+        line-height: 0;
+        font-size: 1rem;
+        top: 60%;
+        left: 62%;
    }
+   
    .modal-content p {font-size: 0.8rem;}
    .exit {display: none;}
 }
