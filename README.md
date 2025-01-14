@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/h3cat3/article-preview-component)
-- Live Site URL: [Add live site URL here](https://h3cat3.github.io/article-preview-component/)
+- Solution URL:(https://github.com/h3cat3/article-preview-component)
+- Live Site URL:(https://h3cat3.github.io/article-preview-component/)
 
 ## My process
 
